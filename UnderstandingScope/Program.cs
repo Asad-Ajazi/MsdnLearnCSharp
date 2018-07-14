@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace UnderstandingScope
 {
     class Program
-        //showing basic code scope of different variables.
+        //showing basic code scope of different variables. ok
     {
         //before main.
         private static string k = "";
