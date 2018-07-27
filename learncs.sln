@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumsAndSwitch", "EnumsAndS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingExceptions", "HandlingExceptions\HandlingExceptions.csproj", "{0A498242-126C-40EA-A459-06BE06806297}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerEventExample", "TimerEventExample\TimerEventExample.csproj", "{3136566D-0ECB-4911-B5B1-6702D3E501DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFEventExample", "WPFEventExample\WPFEventExample.csproj", "{50AD4F6C-9E61-4CFD-A109-28E6BF517D33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{0A498242-126C-40EA-A459-06BE06806297}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A498242-126C-40EA-A459-06BE06806297}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A498242-126C-40EA-A459-06BE06806297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3136566D-0ECB-4911-B5B1-6702D3E501DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3136566D-0ECB-4911-B5B1-6702D3E501DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3136566D-0ECB-4911-B5B1-6702D3E501DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3136566D-0ECB-4911-B5B1-6702D3E501DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50AD4F6C-9E61-4CFD-A109-28E6BF517D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50AD4F6C-9E61-4CFD-A109-28E6BF517D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50AD4F6C-9E61-4CFD-A109-28E6BF517D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50AD4F6C-9E61-4CFD-A109-28E6BF517D33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
